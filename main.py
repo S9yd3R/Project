@@ -98,6 +98,8 @@ def main_menu() :
             for item in range(0,numberOfProducts):
                 print("j")
             input()
+    elif choice == 4 :
+        #jithu -> sales by the firm  bar chart & histogram 
 
 
 
